@@ -1,0 +1,8 @@
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe.config
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.exe
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\bin\Debug\JSONSerialization.pdb
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.csprojResolveAssemblyReference.cache
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.exe
+C:\Users\mM\Documents\Visual Studio 2015\Projects\JSONSerialization\JSONSerialization\obj\Debug\JSONSerialization.pdb
